@@ -1,0 +1,5 @@
+---
+vector:
+  hosts:
+    vector01:
+      ansible_connection: local
