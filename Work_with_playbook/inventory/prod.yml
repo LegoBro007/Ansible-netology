@@ -1,4 +1,8 @@
 ---
+clickhouse:
+  hosts:
+    clickhouse-01:
+      ansible_host: local
 vector:
   hosts:
     vector01:
