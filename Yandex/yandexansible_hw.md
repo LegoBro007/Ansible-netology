@@ -18,7 +18,13 @@
 - Запустите playbook на prod.yml окружении с флагом --diff. Убедитесь, что изменения на системе произведены.
 - Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
 - Подготовьте README.md файл по своему playbook. В нём должно быть описано: что делает playbook, какие у него есть параметры и теги.
+
+https://github.com/LegoBro007/Ansible-netology/blob/main/Yandex/README.md
+
 - Готовый playbook выложите в свой репозиторий, поставьте тег 08-ansible-03-yandex на фиксирующий коммит, в ответ предоставьте ссылку на него.
+
+https://github.com/LegoBro007/Ansible-netology/blob/main/Yandex/site.yml
+
 
 Как оформить ДЗ?
 
